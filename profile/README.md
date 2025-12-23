@@ -1,115 +1,105 @@
 # Nerium 🌿
 
-**Nerium** is a blockchain-based platform focused on **digital identity, access control, and verifiable trust**, designed for **non-public (permissioned) environments** where organizations, institutions, and users operate with clearly defined roles.
+**Nerium** is a developer-first platform focused on building **practical infrastructure tools** for modern software teams.
 
-The vision behind Nerium is simple but ambitious: **make identity, permissions, and digital proofs native, verifiable, and secure**, without relying on open public blockchains or single centralized authorities.
+Our goal is simple: **help developers control, measure, and monetize their systems without unnecessary complexity**.
 
----
-
-## 🧠 What is Nerium?
-
-Nerium is **not a public blockchain** and **not a cryptocurrency**.
-
-It is a **permissioned blockchain infrastructure** that acts as a **trust layer** for:
-
-* Digital Identity (IAM)
-* Digital Licenses
-* Cryptographic Signatures and Proofs
-* State and validity verification
-* Token-based access control
-
-All of this is built with an **enterprise-ready, modular, and auditable** mindset.
+Nerium is not about hype or speculative tech. It is about shipping tools that solve real problems.
 
 ---
 
-## 🔐 Core Use Cases
+## 🚀 Current Focus: Pulse
 
-### 1. Identity & Access Management (IAM)
+**Pulse** is the first product built under Nerium.
 
-* Decentralized identities (DIDs)
-* Tokenized roles and permissions
-* Dynamic, state-based access control
-* Verifiable delegation and revocation
+Pulse is an **API control and monetization layer** that allows teams to:
 
-### 2. Digital Licenses
+- Create and manage API keys
+- Apply rate limits and quotas
+- Track API usage in real time
+- Enforce plans per customer or project
+- Monetize APIs via subscriptions or usage-based billing
 
-* Licenses issued by authorized entities
-* Non-transferable (soulbound) tokens
-* On-chain renewal, expiration, and revocation
-* Instant third-party verification
+Pulse is designed to be:
 
-### 3. Signatures, Proofs & Verification
+- **Dev-first** – easy to integrate, minimal setup  
+- **Infrastructure-light** – no heavy gateways or vendor lock-in  
+- **Product-ready** – built to ship, sell, and scale  
 
-* Proof of existence (PoE)
-* Auditable cryptographic signatures
-* Verification without exposing sensitive data
-* Integration with external systems
-
-### 4. Token-Based Access Control
-
-* Tokens as access keys
-* Time-bound or conditional access
-* Usage in APIs, internal platforms, and physical systems
+Think of Pulse as the **heartbeat of your APIs**.
 
 ---
 
-## 🧱 Design Principles
+## 🧠 Why Nerium?
 
-* **Permissioned by design**: only authorized actors
-* **Privacy-first**: minimal data exposure
-* **Modularity**: each component can evolve independently
-* **Auditability**: everything is verifiable
-* **Interoperability**: compatible with Web2 and Web3 systems
+Most infrastructure projects fail because they are:
+
+1. Over-engineered  
+2. Hard to adopt  
+3. Built around theory instead of real developer needs  
+
+Nerium follows a different philosophy:
+
+- Small, focused tools  
+- Clear value from day one  
+- Strong technical fundamentals  
+- Built by developers, for developers  
+
+No buzzwords. No unnecessary abstraction.
 
 ---
 
-## 🧩 Architecture (High Level)
+## 🧩 What We Build
 
-* **Core Chain**: permissioned ledger
-* **IAM Layer**: identities, roles, and policies
-* **Token Layer**: licenses and access tokens
-* **Verification Layer**: proofs and validations
-* **API / SDK**: external integration
+Nerium focuses on:
 
-*(Detailed architecture will be documented progressively)*
+- API infrastructure  
+- Developer tooling  
+- Usage analytics and control layers  
+- Monetization primitives for software products  
+
+Each product is designed to stand on its own, while fitting into a broader ecosystem over time.
+
+---
+
+## 🗺️ Roadmap
+
+- **Pulse (MVP):** API keys, rate limiting, usage tracking, billing  
+- **Pulse (Growth):** analytics, alerts, webhooks, SDKs  
+- **Future:** advanced execution layers and infrastructure primitives  
+
+The roadmap is driven by real developer pain points, not speculation.
+
+---
+
+## 🤝 Who This Is For
+
+- Indie hackers  
+- Startups building APIs  
+- SaaS teams monetizing usage  
+- Developers who want control without running heavy infrastructure  
+
+If you ship APIs, Nerium is for you.
 
 ---
 
 ## 🚧 Project Status
 
-Nerium is currently in the **design and prototyping phase**.
+Nerium is currently in **active development**.
 
-Active work includes:
-
-* IAM model definition
-* Control token specifications
-* Verification flow design
-* Repository and module structure
+The focus is on delivering a solid, usable MVP before expanding functionality.
 
 ---
 
-## 🎯 Long-Term Goal
+## 📫 Contact
 
-To establish Nerium as a **reference infrastructure** for organizations that require:
+If you’re interested in:
+- early access  
+- collaboration  
+- feedback  
 
-* Trust without single points of authority
-* Fine-grained access control
-* Verifiable and sovereign identity
-* Compliance and auditability by design
-
----
-
-## ⚠️ Disclaimer
-
-This repository represents an **evolving technical and conceptual vision**.
-It is not intended as a final product nor as a public open blockchain.
+Follow the project here on GitHub.
 
 ---
 
-## 📄 License
-
-To be defined.
-
----
-
-> *Nerium does not aim to replace human trust — it gives it a solid cryptographic foundation.* 🌱
+**Nerium** — infrastructure you can actually ship.
